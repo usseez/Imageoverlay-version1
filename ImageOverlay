@@ -636,25 +636,25 @@
           <mxGeometry x="1880" y="2590" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8irTe3MKE1TTVvp1nLln-1" value="BGR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2040" y="2520" width="120" height="60" as="geometry" />
+          <mxGeometry x="2040" y="2550" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8irTe3MKE1TTVvp1nLln-2" value="YUV 444" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2040" y="2640" width="120" height="60" as="geometry" />
+          <mxGeometry x="2040" y="2640" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8irTe3MKE1TTVvp1nLln-3" value="UV MSB4bit concatenation&lt;div&gt;2&#39;b uuuu_vvvv&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2220" y="2720" width="120" height="60" as="geometry" />
+          <mxGeometry x="2220" y="2710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8irTe3MKE1TTVvp1nLln-4" value="set Y = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2220" y="2640" width="120" height="60" as="geometry" />
+          <mxGeometry x="2220" y="2640" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8irTe3MKE1TTVvp1nLln-5" value="0~255 값을&lt;div&gt;0~1로 normalization&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2380" y="2720" width="120" height="60" as="geometry" />
+          <mxGeometry x="2390" y="2710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8irTe3MKE1TTVvp1nLln-6" value="alpha" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2530" y="2710" width="120" height="80" as="geometry" />
+          <mxGeometry x="2560" y="2720" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8irTe3MKE1TTVvp1nLln-8" value="overlay&lt;div&gt;Y - G&lt;/div&gt;&lt;div&gt;U(Cb) - B&lt;/div&gt;&lt;div&gt;V(Cr) - R&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2390" y="2580" width="120" height="60" as="geometry" />
+          <mxGeometry x="2660" y="2590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
