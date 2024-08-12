@@ -57,7 +57,7 @@
         </UserObject>
         <UserObject label="Mat outbuffer" link="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;main.cpp&lt;/span&gt;&#xa;&#xa;" id="DQrjsosO0pMqogxI9swJ-7">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-            <mxGeometry x="631" y="750" width="120" height="60" as="geometry" />
+            <mxGeometry x="660" y="780" width="60" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="DQrjsosO0pMqogxI9swJ-9" value="Image Overlay" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -105,6 +105,17 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="340" y="931" as="sourcePoint" />
             <mxPoint x="70" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="bgr&lt;div&gt;image&lt;/div&gt;" link="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;main.cpp&lt;/span&gt;&#xa;&#xa;" id="uo3-hhx7zXXgQv53v-Eh-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="440" y="780" width="60" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="uo3-hhx7zXXgQv53v-Eh-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.265;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472" y="1090" as="sourcePoint" />
+            <mxPoint x="471" y="808" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
