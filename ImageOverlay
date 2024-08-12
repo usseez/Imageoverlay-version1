@@ -357,6 +357,15 @@
         <mxCell id="uo3-hhx7zXXgQv53v-Eh-83" value="Image Overlay" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="683" y="150" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uo3-hhx7zXXgQv53v-Eh-84" value="unsigned char uv_field&lt;div&gt;float alpha&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="230" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uo3-hhx7zXXgQv53v-Eh-85" value="start" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="885" y="180" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uo3-hhx7zXXgQv53v-Eh-86" value="unsigned char uv_field&lt;div&gt;float alpha&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="290" width="190" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
