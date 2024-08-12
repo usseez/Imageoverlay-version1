@@ -261,7 +261,7 @@
           <mxGeometry x="998" y="50" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uo3-hhx7zXXgQv53v-Eh-40" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="980" y="930" width="104" height="30" as="geometry" />
+          <mxGeometry x="998" y="810" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uo3-hhx7zXXgQv53v-Eh-41" value="float min = 1.0;&lt;div&gt;float max = 0.0;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="991" y="100" width="118" height="40" as="geometry" />
@@ -309,6 +309,9 @@
         </mxCell>
         <mxCell id="uo3-hhx7zXXgQv53v-Eh-60" value="반복문 int i = 0; i &amp;lt; length; i++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="890" y="580" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uo3-hhx7zXXgQv53v-Eh-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uo3-hhx7zXXgQv53v-Eh-61" target="uo3-hhx7zXXgQv53v-Eh-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uo3-hhx7zXXgQv53v-Eh-61" value="norm_arr[i] = ((float)arr[i] - min) / (max - min);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920" y="680" width="260" height="30" as="geometry" />
