@@ -140,7 +140,7 @@
             <mxPoint x="611" y="808" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uo3-hhx7zXXgQv53v-Eh-10" value="이미지 데이터를 배열로 복사" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uo3-hhx7zXXgQv53v-Eh-10" value="[!= empty]&lt;div&gt;이미지 데이터를 배열로 복사&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="850" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
