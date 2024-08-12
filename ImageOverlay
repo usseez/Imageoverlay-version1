@@ -611,7 +611,7 @@
         <mxCell id="uo3-hhx7zXXgQv53v-Eh-206" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="3290" as="sourcePoint" />
-            <mxPoint x="1140" y="3290" as="targetPoint" />
+            <mxPoint x="1130" y="3290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uo3-hhx7zXXgQv53v-Eh-207" value="outbuffer_overlayed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
