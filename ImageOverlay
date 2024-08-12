@@ -98,9 +98,6 @@
             <mxPoint x="316" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uo3-hhx7zXXgQv53v-Eh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="316" y="880" width="10" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="uo3-hhx7zXXgQv53v-Eh-2" value="NULL" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="316" y="931" as="sourcePoint" />
