@@ -629,6 +629,9 @@
         <mxCell id="uo3-hhx7zXXgQv53v-Eh-213" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="154" y="2892" width="15" height="398" as="geometry" />
         </mxCell>
+        <mxCell id="uo3-hhx7zXXgQv53v-Eh-215" value="check image exist에서 empty일 때 return 0을 어떻게 표현할 것인가" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="482.5" y="2750" width="307.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
